@@ -14,6 +14,9 @@
 
 ## Работа с изображениями
 
+Чтобы вставить изображение достаточно написать следующее:
+![Это печь для шашлыков](barbecue.jpg)
+
 ## Ссылки
 
   [GitHab. Nord-Orn/FirstRepository](https://github.com/Nord-Orn/FirstRepository)
