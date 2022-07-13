@@ -19,7 +19,11 @@
 
 ## Ссылки
 
+<<<<<<< HEAD
   [GitHab. Nord-Orn/FirstRepository](https://github.com/Nord-Orn/FirstRepository)
+=======
+Для того, чтобы указать ссылку на важную информацию в интернете нужно название обрамить в квадратные скобки, а путь указать в круглых скобках, например:  [GitHab. Nord-Orn/FirstRepository](https://github.com/Nord-Orn/FirstRepository)
+>>>>>>> adrress_links
 
 ## Работа с таблицами
 
