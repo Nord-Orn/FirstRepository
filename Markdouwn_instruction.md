@@ -8,7 +8,7 @@
 
 ## Ссылки
 
-Для того, чтобы указать ссылку на важную информацию в интернете нужно название обрамить в квадратные скобки, а путь указать в круглых скобках, например:  [GitHab. Nord-Orn/FirstRepository](https://github.com/Nord-Orn/FirstRepository)
+  [GitHab. Nord-Orn/FirstRepository](https://github.com/Nord-Orn/FirstRepository)
 
 ## Работа с таблицами
 
